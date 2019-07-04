@@ -55,3 +55,14 @@ console.log(filmCheckk())
   /* film.push("lover", "lion")
    console.log(film)
    */
+
+
+   /* film.push("lover", "lion")
+   console.log(film)
+   */
+
+  film.push("lover", "lion")
+  console.log(film)
+  
+
+  //change
