@@ -1,0 +1,12 @@
+console.log("   |    |    ")
+console.log("   |    |    ")
+console.log("   |    |    ")
+console.log("_____________")
+console.log("   |    |    ")
+console.log("   |    |    ")
+console.log("   |    |    ")
+console.log("_____________")
+console.log("   |    |    ")
+console.log("   |    |    ")
+console.log("   |    |    ")
+
